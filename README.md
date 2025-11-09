@@ -1,4 +1,4 @@
-Aluno: Gabriel do Carmo Silva
+Aluno: Gabriel do Carmo Silva\
 Matrícula: 202065030C
 
 O projeto usa o padrão Strategy para implementar um Caixa Eletrônico com diferentes operações, como saque, depósito, consultar saldo e parcelamento. Após essas operações realizadas, é devolvido o saldo.
